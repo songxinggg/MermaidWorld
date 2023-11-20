@@ -1,0 +1,4 @@
+﻿{
+	"CustomType": "hair",
+	"CustomData": "{\"realData\":\"[{\\\"apiName\\\":\\\"setFrontHairMesh\\\",\\\"value\\\":\\\"62540\\\",\\\"saveFileType\\\":\\\"Hair\\\"},{\\\"apiName\\\":\\\"setBehindHairMesh\\\",\\\"value\\\":\\\"63551\\\",\\\"saveFileType\\\":\\\"Hair\\\"},{\\\"apiName\\\":\\\"setBehindHairHairColor\\\",\\\"value\\\":\\\"R=1,G=0.60403,B=0.837404,A=1\\\",\\\"saveFileType\\\":\\\"Hair\\\"},{\\\"apiName\\\":\\\"setBehindHairHairGradientColor\\\",\\\"value\\\":\\\"R=0.703125,G=0.248143,B=0.177973,A=1\\\",\\\"saveFileType\\\":\\\"Hair\\\"},{\\\"apiName\\\":\\\"setFrontHairHairColor\\\",\\\"value\\\":\\\"R=0.563714,G=0.645833,B=0.570547,A=1\\\",\\\"saveFileType\\\":\\\"Hair\\\"}]\",\"characterType\":\"Female_Medium\",\"version\":\"2.0\"}"
+}

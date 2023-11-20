@@ -1,0 +1,4 @@
+﻿{
+	"CustomType": "uppercloth",
+	"CustomData": "{\"realData\":\"[{\\\"apiName\\\":\\\"setUpperClothMesh\\\",\\\"value\\\":\\\"63539\\\",\\\"saveFileType\\\":\\\"UpperCloth\\\"},{\\\"apiName\\\":\\\"setUpperClothClothColor\\\",\\\"value\\\":\\\"#1|R=0.637597,G=0.210204,B=0.526264,A=1#2|R=0.492931,G=0.5,B=0.143353,A=1\\\",\\\"saveFileType\\\":\\\"UpperCloth\\\"}]\",\"characterType\":\"Female_Medium\",\"version\":\"2.0\"}"
+}

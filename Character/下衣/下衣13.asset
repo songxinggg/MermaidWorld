@@ -1,0 +1,4 @@
+﻿{
+	"CustomType": "lowercloth",
+	"CustomData": "{\"realData\":\"[{\\\"apiName\\\":\\\"setLowerClothMesh\\\",\\\"value\\\":\\\"119743\\\",\\\"saveFileType\\\":\\\"LowerCloth\\\"},{\\\"apiName\\\":\\\"setLowerClothClothColor\\\",\\\"value\\\":\\\"#1|R=0.175102,G=0.380208,B=0.345997,A=1#0|R=0.84375,G=0.84375,B=0.84375,A=1\\\",\\\"saveFileType\\\":\\\"LowerCloth\\\"},{\\\"apiName\\\":\\\"setLowerClothDesignColor\\\",\\\"value\\\":\\\"#0|R=0.063178,G=0.713542,B=0.591897,A=1\\\",\\\"saveFileType\\\":\\\"LowerCloth\\\"},{\\\"apiName\\\":\\\"setLowerClothPatternTexture\\\",\\\"value\\\":\\\"#0|R=0,G=0.063497,B=0.411458,A=1\\\",\\\"saveFileType\\\":\\\"LowerCloth\\\"},{\\\"apiName\\\":\\\"setLowerClothPatternHeight\\\",\\\"value\\\":\\\"#0|30\\\",\\\"saveFileType\\\":\\\"LowerCloth\\\"}]\",\"characterType\":\"Female_Medium\",\"version\":\"2.0\"}"
+}

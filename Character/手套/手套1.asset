@@ -1,0 +1,4 @@
+﻿{
+	"CustomType": "gloves",
+	"CustomData": "{\"realData\":\"[{\\\"apiName\\\":\\\"setGlovesMesh\\\",\\\"value\\\":\\\"117489\\\",\\\"saveFileType\\\":\\\"Gloves\\\"},{\\\"apiName\\\":\\\"setGlovesClothColor\\\",\\\"value\\\":\\\"#0|R=0.625867,G=0.630208,B=0.262587,A=1\\\",\\\"saveFileType\\\":\\\"Gloves\\\"}]\",\"characterType\":\"Female_Medium\",\"version\":\"2.0\"}"
+}

@@ -1,0 +1,4 @@
+﻿{
+	"CustomType": "lowercloth",
+	"CustomData": "{\"realData\":\"[{\\\"apiName\\\":\\\"setLowerClothMesh\\\",\\\"value\\\":\\\"66424\\\",\\\"saveFileType\\\":\\\"LowerCloth\\\"},{\\\"apiName\\\":\\\"setLowerClothClothColor\\\",\\\"value\\\":\\\"#1|R=0.640625,G=0.210205,B=0.611647,A=1#0|R=0.760417,G=0.703934,B=0.319963,A=1#2|R=0.947917,G=0.833279,B=0.542716,A=1#3|R=0.848958,G=0.658237,B=0.086072,A=1\\\",\\\"saveFileType\\\":\\\"LowerCloth\\\"}]\",\"characterType\":\"Female_Medium\",\"version\":\"2.0\"}"
+}
